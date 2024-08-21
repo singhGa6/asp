@@ -1,0 +1,6 @@
+@ResolutionAndCommentsService_HostAddress = http://localhost:5232
+
+GET {{ResolutionAndCommentsService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
